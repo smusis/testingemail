@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Users/kochharps.2012/Documents/Applications/TestCases/lib/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kochharps.2012/Documents/Applications/FDroid/lib/github-api-1.69.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kochharps.2012/Documents/Applications/FDroid/lib/javax.mail.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kochharps.2012/Documents/Applications/FDroid/lib/com.fasterxml.jackson.databind.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kochharps.2012/Documents/Applications/FDroid/lib/jackson-core-2.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kochharps.2012/Documents/Applications/FDroid/lib/jackson-annotations-2.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kochharps.2012/Documents/Applications/FDroid/lib/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kochharps.2012/Documents/Applications/TestCases/lib/commons-lang3-3.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
